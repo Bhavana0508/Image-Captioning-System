@@ -1,0 +1,24 @@
+[
+    {
+        "timestamp": "2025-02-04T21:44:31.462819",
+        "image_path": "/workspaces/enhanced-image-captioning/enhanced-image-captioning/data/uploads/processed_pexels-pixabay-33545.jpg",
+        "base_caption": "fishing boat on the beach at sunset",
+        "improved_caption": "a boat sitting on top of a beach next to a body of water",
+        "metrics": {
+            "accuracy": 0.7727272727272727,
+            "precision": 0.2727272727272727,
+            "recall": 0.42857142857142855,
+            "f1_score": 0.33333333333333326,
+            "bleu": 0.018798317647335087,
+            "meteor": 0.19480519480519481,
+            "rouge_l": 0.2857142857142857,
+            "cider": 0.2,
+            "training_loss": 0.2790855951323651,
+            "validation_loss": 0.28060734376425756,
+            "base_length": 7,
+            "improved_length": 14,
+            "timestamp": "2025-02-04T21:44:31.462802"
+        },
+        "audio_file": "/workspaces/enhanced-image-captioning/enhanced-image-captioning/data/audio/caption_20250204_214431.mp3"
+    }
+]
