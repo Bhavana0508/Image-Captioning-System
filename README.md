@@ -10,8 +10,7 @@
 
 1. **Clone the Repository**
  ```bash
- git clone https://github.com/yourusername/Image-Captioning-System
-.git
+ git clone https://github.com/yourusername/Image-Captioning-System.git
  cd Image-Captioning-System
  ```
 
