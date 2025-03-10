@@ -10,8 +10,9 @@
 
 1. **Clone the Repository**
  ```bash
- git clone https://github.com/yourusername/enhanced-image-captioning.git
- cd enhanced-image-captioning
+ git clone https://github.com/yourusername/Image-Captioning-System
+.git
+ cd Image-Captioning-System
  ```
 
 2. **Create and Activate Virtual Environment**
